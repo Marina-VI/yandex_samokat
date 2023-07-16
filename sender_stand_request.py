@@ -1,3 +1,4 @@
+# Игнатова Марина, 6-я когорта - Финальный проект. Инженер по тестированию плюс
 import requests
 import configuration as conf
 
